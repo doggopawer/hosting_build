@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/doggopawer/hosting_build.git/static/css/main.d062b9eb.css",
+    "main.js": "/doggopawer/hosting_build.git/static/js/main.60ee34fd.js",
+    "index.html": "/doggopawer/hosting_build.git/index.html",
+    "main.d062b9eb.css.map": "/doggopawer/hosting_build.git/static/css/main.d062b9eb.css.map",
+    "main.60ee34fd.js.map": "/doggopawer/hosting_build.git/static/js/main.60ee34fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d062b9eb.css",
+    "static/js/main.60ee34fd.js"
+  ]
+}
